@@ -1,0 +1,54 @@
+.card{
+    background-color: #1235;
+    width: 250px;
+   margin-left: 500px;
+   margin-top: 10px;
+}
+.heading{
+    width: 400px;
+}
+.button{
+  text-align: center;
+}
+.save{
+    text-align: left;
+}
+.link{
+    text-decoration: none;
+    text-align: center;
+}
+.bb{
+   
+    width: 200px;
+}
+.bbb{
+    width: 200px;
+    background-color: aquamarine;
+    color: blue;
+    font-weight: 400;
+}
+.rate{
+    text-align: center;
+}
+.card img{
+    width: 100%;
+}
+.save{
+    background-color: blueviolet;
+    color: #fff;
+    width: 50px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius:20px ;
+    font-size: 15px;
+}
+.rated{
+    color: red;
+    text-align: center;
+}
+.h1{
+    background-color: rgb(196, 236, 255);
+    color: rgb(13, 0, 255);
+    letter-spacing: 5px;
+    word-spacing: 20px;
+    text-align: center;
+}
